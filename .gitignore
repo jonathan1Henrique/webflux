@@ -6,6 +6,7 @@ bin-release/
 
 # Other files and folders
 .settings/
+.mvn
 
 # Executables
 *.swf
@@ -51,3 +52,4 @@ build/
 
 ### VS Code ###
 .vscode/
+
